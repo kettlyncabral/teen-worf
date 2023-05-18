@@ -2,6 +2,6 @@
     --cor-de-fundo:  #41761b;
 }
 
-bory{
+body{
     background-color: var(--cor-de-fundo);
 }
